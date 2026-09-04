@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "herramientas-26"
+assignment: "introduccion-a-git"
+owner:
+  username: "Jaycob-Gomez1311"
+  id: 248085065
+  accepted_at: "2026-09-02T22:58:05Z"
+source:
+  owner: "TDHclassroom"
+  owner_id: 219900396
+  repo: "git-basic"
+  branch: "main"
